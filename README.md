@@ -28,5 +28,7 @@ compared to traditional construction approaches.
 
 Index Terms—UAV cellular communication, channel knowledge map, path loss prediction, deep learning
 
+For detailed information, please read the PDF.
+
 A multi-scenario, multi-altitude UAV channel dataset in dense low-altitude building environments has been open-sourced.
 The code for MPANet is being organized.
