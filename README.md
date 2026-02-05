@@ -12,7 +12,7 @@ traditional construction schemes based on measurements, ray
 tracing (RT), or historical CSI often fail to adequately consider
 the impact of environmental features (such as building layout and
 height), and still exhibit significant limitations in constructing
-three-dimensional (3D) CKMs for low-altitude urban environments with dense buildings. In this paper, we propose a deep
+three-dimensional (3D) CKMs for low-altitude urban environments with dense buildings. In this paper, we propose a deep
 learning network architecture named MPANet, which effectively
 addresses the challenge of 3D spatial CKM construction. The
 model not only integrates complex environmental features from
@@ -23,7 +23,7 @@ prediction in low-altitude environments and generates 3D path
 loss distributions based on environmental characteristics, offering
 a novel solution for constructing CKMs for cellular-connected
 UAVs. Results demonstrate that our proposed method delivers
-high-precision signal path loss prediction for UAV communications. MPANet achieves a root mean square error (RMSE) below
+high-precision signal path loss prediction for UAV communications. MPANet achieves a root mean square error (RMSE) below
 0.2 dB across all test scenarios, exhibiting superior performance
 compared to traditional construction approaches.
-Index Terms—UAV cellular communication, channel knowledge map, path loss prediction, deep learning
+Index Terms—UAV cellular communication, channel knowledge map, path loss prediction, deep learning
