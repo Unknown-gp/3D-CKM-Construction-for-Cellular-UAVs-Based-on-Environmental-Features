@@ -1,5 +1,4 @@
 # 3D-CKM-Construction-for-Cellular-UAVs-Based-on-Environmental-Features
-3D CKM Construction for Cellular-UAVs Based on Environmental Features
 Abstract—Cellular-connected unmanned aerial vehicle (UAV)
 communication faces challenges such as rapidly time-varying
 channels, dynamic blockages, and Doppler effects in low-altitude
@@ -26,4 +25,5 @@ UAVs. Results demonstrate that our proposed method delivers
 high-precision signal path loss prediction for UAV communications. MPANet achieves a root mean square error (RMSE) below
 0.2 dB across all test scenarios, exhibiting superior performance
 compared to traditional construction approaches.
+
 Index Terms—UAV cellular communication, channel knowledge map, path loss prediction, deep learning
